@@ -1,1 +1,1 @@
-# neowiki
+# Please go to the Wiki.
